@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔖 Spotify Clone using React, NextJS and Redux
 This repository contains the source code of a **Spotify clone**. <br>
 It's not an exact copy of the original Spotify but the main aspects are as close as possible copied to deliver the typical Spotify feeling.
@@ -33,3 +34,6 @@ Gamekohl
 This project is licensed under the MIT License - see the LICENSE file for details
 
 
+=======
+# Spotify-clone
+>>>>>>> e7aaecc9097fd81ad319dbe7107e07bd4fe3c0fa
